@@ -2,7 +2,7 @@
 
 Script Converter is a lightweight tool that enables users to transform scripts written in Batch (Bat), VBScript (VBS), or PowerShell into executable files. It provides a user-friendly interface with numerous customization and security options.
 
-## Features:
+## Features
 
 - Language selection between Batch, VBScript, and PowerShell
 - Platform compatibility options (32/64-bit)
@@ -16,6 +16,10 @@ Script Converter is a lightweight tool that enables users to transform scripts w
   - Version control (File and Product versions)
   - Product naming and company details
   - Copyright and trademark information
+
+## Download
+[![Github All Releases](https://img.shields.io/github/downloads/IdefaSoft/ScriptConverter/total.svg?label=Downloads)]()  
+Download link: [ScriptConverter](https://github.com/IdefaSoft/ScriptConverter/releases/download/v1.0/ScriptConverter.exe) (1.0)
 
 ## Screenshot
 ![ScriptConverter](https://github.com/user-attachments/assets/2beace7c-43f8-42d0-a75a-8bd0fafa5ea1)
